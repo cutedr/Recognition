@@ -1,8 +1,8 @@
 # Recognition
-面部表情识别
+面部表情识别-人工智能大作业
 
-## 部署如下
-基于Python3和Keras2（TensorFlow后端），具体依赖安装如下（本人使用conda虚拟环境）。
+## 部署
+本项目基于Python3和Keras2（TensorFlow后端），具体依赖安装如下（本人使用conda虚拟环境）。
 ```
 git clone https://github.com/cutedr/Recognition.git
 cd Recognition
