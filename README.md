@@ -3,13 +3,13 @@
 
 ##部署如下
 基于Python3和Keras2（TensorFlow后端），具体依赖安装如下（本人使用conda虚拟环境）。
-'''
+```
 git clone https://github.com/cutedr/Recognition.git
 cd Recognition
 conda create -n FER python=3.7 -y
 conda activate FER
 pip install -r requirements.txt
-'''
+```
 ##训练
 运行train.py即可进行训练，默认数据集为fer2013
 ##检测
